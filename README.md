@@ -5,7 +5,7 @@ learning how modern systems are built end to end
 
 ---
 
-22 y/o self-taught developer focused on understanding things from first principles.  
+21 y/o self-taught developer focused on understanding things from first principles.  
 currently building depth across backend, distributed systems, devops, and applied ai.
 
 ## what i'm doing right now
