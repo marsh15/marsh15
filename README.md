@@ -1,6 +1,6 @@
 # Santosh Kumar
 
-**full-stack · ai engineering · devops**  
+**Backend · full-stack · ai engineering · devops**  
 learning how modern systems are built end to end
 
 ---
@@ -28,7 +28,7 @@ infrastructure at scale
 ## stack i vibe with
 
 **languages**  
-typescript · python · go · rust
+typescript · python · go 
 
 **frontend**  
 react · next.js · tailwind
